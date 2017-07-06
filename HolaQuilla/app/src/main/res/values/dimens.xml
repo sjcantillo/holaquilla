@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="ancho_logo">5dp</dimen>
+    <dimen name="espacio_norma_1">15dp</dimen>
+    <dimen name="espacio_norma_2">3dp</dimen>
+
+</resources>
